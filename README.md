@@ -6,7 +6,7 @@ There are three questions that I want to enable users to answer:
 
 **1. Where do countries get their energy from?**
 
-**2. Are countries starting the transition to renewable energy production?**
+**2. Are countries starting the transition to renewable energy production? If so, when did the transition start?**
 
 **3. Does public opinion on climate change have an impact on the transition to renewable energy production?**
 
