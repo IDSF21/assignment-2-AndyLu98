@@ -11,7 +11,7 @@ There are three questions that I want to enable users to answer:
 **3. Does public opinion on climate change have an impact on the transition to renewable energy production?**
 
 
-To help users answer these questions, I used a dataset from Kaggle: https://www.kaggle.com/mathurinache/global-power-plant-database/code. This dataset contains a comprehensive list of power plants around the globe, including their fuels, location, capacity, etc. Some of the power plants also include their commissioning date and other useful information. I also extracted poll results for public opinion on climate change from https://www.aei.org/research-products/report/aei-public-opinion-study-polls-on-the-environment-energy-global-warming-and-nuclear-power-2/ and https://www.pewresearch.org/fact-tank/2019/04/18/a-look-at-how-people-around-the-world-view-climate-change/ft_19-04-18_climatechangeglobal_since2013concerns/.
+To help users answer these questions, I used a dataset from Kaggle: https://www.kaggle.com/mathurinache/global-power-plant-database. This dataset contains a comprehensive list of power plants around the globe, including their fuels, location, capacity, etc. Some of the power plants also include their commissioning date and other useful information. I also extracted poll results for public opinion on climate change from https://www.aei.org/research-products/report/aei-public-opinion-study-polls-on-the-environment-energy-global-warming-and-nuclear-power-2/ and https://www.pewresearch.org/fact-tank/2019/04/18/a-look-at-how-people-around-the-world-view-climate-change/ft_19-04-18_climatechangeglobal_since2013concerns/.
 
 ## Design Rationale: 
 
