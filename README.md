@@ -1,7 +1,6 @@
 ## Description of the goals of this project: 
 
-As climate change becomes a more pressing issue, the need to cut emissions consequently becomes extremely urgent. Energy production and consumption accounts for an astounding 75% of the global annual CO2 emissions. Therefore, the best way to cut down global emissions significantly and quickly is by transitioning our energy system from powered by fossil fuels such as coal, gas, and oil to one powered by renewable sources such as solar, wind, and geothermal. This project aims to understand the 
-current energy production system around the globe, and investigate the trend in the transition to renewable energy. 
+As climate change becomes a more pressing issue, the need to cut emissions consequently becomes extremely urgent. Energy production and consumption accounts for an astounding 75% of the global annual CO2 emissions. Therefore, the best way to cut down global emissions significantly and quickly is by transitioning our energy system from one powered by fossil fuels such as coal, gas, and oil to one powered by renewable sources such as solar, wind, and geothermal. This project aims to understand the current energy production system around the globe, and investigate the trend in the transition to green and renewable energy. 
 
 There are three questions that I want to enable users to answer:
 
