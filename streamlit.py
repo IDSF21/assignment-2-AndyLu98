@@ -56,7 +56,6 @@ def main():
 	data = load_data()
 	data = clean_data(data)
 
-
 	#Question 1: 
 	country_and_fuel=data.pivot_table(index=['country_long','primary_fuel'],values=['capacity_mw'],aggfunc=np.sum)
 	country_and_fuel = country_and_fuel.reset_index()
@@ -103,8 +102,6 @@ def main():
 
 		for i in range(len(options)):
 			with temp[i]:
-				#st.write()
-
 				data_country = data[data["country_long"] == options[i]] 
 
 				data_country = data_country[data_country["primary_fuel"] != "Storage"]
